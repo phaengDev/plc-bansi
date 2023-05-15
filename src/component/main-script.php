@@ -1,0 +1,12 @@
+<script src="public/assets/js/core/libs.min.js"></script>
+    <script src="public/assets/js/core/external.min.js"></script>
+    <script src="public/assets/js/charts/widgetcharts.js"></script>
+    <script src="public/assets/js/charts/vectore-chart.js"></script>
+    <script src="public/assets/js/charts/dashboard.js" ></script>
+    <script src="public/assets/js/plugins/fslightbox.js"></script>
+    <script src="public/assets/js/plugins/setting.js"></script>
+    <script src="public/assets/js/plugins/slider-tabs.js"></script>
+    <script src="public/assets/js/plugins/form-wizard.js"></script>
+    <script src="public/assets/vendor/aos/dist/aos.js"></script>
+    <script src="public/assets/js/hope-ui.js"></script>
+    <script src="public/assets/js/packget.min.js"></script>
